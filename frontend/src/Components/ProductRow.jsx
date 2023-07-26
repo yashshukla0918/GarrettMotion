@@ -1,7 +1,7 @@
 import React from 'react'
 import ProductCard from './ProductCard';
-
 const ProductRow = ({data}) => {
+ 
   return (
     <div className="row">
         {
@@ -11,6 +11,7 @@ const ProductRow = ({data}) => {
                 </div>
             })
         }
+       
     </div>
   )
 }

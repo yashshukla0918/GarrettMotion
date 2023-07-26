@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GarrettMotion/static/css/main.e6c13ad2.css",
+    "main.js": "/GarrettMotion/static/js/main.0e5a9563.js",
+    "index.html": "/GarrettMotion/index.html",
+    "main.e6c13ad2.css.map": "/GarrettMotion/static/css/main.e6c13ad2.css.map",
+    "main.0e5a9563.js.map": "/GarrettMotion/static/js/main.0e5a9563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0e5a9563.js"
+  ]
+}
